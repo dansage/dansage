@@ -43,7 +43,7 @@ I am software developer with networking and technical support experience in the 
 <hr>
 
 ### Statistics
-<p>
+<p align='center'>
   <a href='https://git.io/streak-stats' rel='nofollow'>
     <img src='https://github-readme-streak-stats.herokuapp.com?user=dansage&theme=github-dark&hide_border=true' title='GitHub streak' alt='GitHub streak' height='165'>
   </a>
