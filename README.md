@@ -24,20 +24,20 @@ I am software developer with networking and technical support experience in the 
 
 ### Languages, frameworks, & other tools
 <p>
-  <img src="https://github.com/devicons/devicon/raw/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="48" height="48">
-  <img src="https://github.com/devicons/devicon/raw/master/icons/php/php-plain.svg" title="PHP" alt="PHP" width="48" height="48">
-  <img src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-plain-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="48" height="48">
-  <img src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="48" height="48">
-  <img src="https://github.com/devicons/devicon/raw/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" alt="Laravel" width="48" height="48">
-  <img src="https://github.com/devicons/devicon/raw/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind CSS" alt="Tailwind CSS" width="48" height="48">
-  <img src="https://github.com/devicons/devicon/raw/master/icons/fedora/fedora-plain.svg" title="Fedora" alt="Fedora" width="48" height="48">
-  <img src="https://github.com/devicons/devicon/raw/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="48" height="48">
-  <img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="48" height="48">
-  <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" title="Git" alt="Git" width="48" height="48">
-  <img src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="48" height="48">
-  <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="HTML5" width="48" height="48">
-  <img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS3" width="48" height="48">
-  <img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="48" height="48">
+  <img src='https://github.com/devicons/devicon/raw/master/icons/go/go-original-wordmark.svg' title='Go' alt='Go' width='48' height='48'>
+  <img src='https://github.com/devicons/devicon/raw/master/icons/php/php-plain.svg' title='PHP' alt='PHP' width='48' height='48'>
+  <img src='https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-plain-wordmark.svg' title='PostgreSQL' alt='PostgreSQL' width='48' height='48'>
+  <img src='https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original-wordmark.svg' title='MySQL' alt='MySQL' width='48' height='48'>
+  <img src='https://github.com/devicons/devicon/raw/master/icons/laravel/laravel-plain-wordmark.svg' title='Laravel' alt='Laravel' width='48' height='48'>
+  <img src='https://github.com/devicons/devicon/raw/master/icons/tailwindcss/tailwindcss-plain.svg' title='Tailwind CSS' alt='Tailwind CSS' width='48' height='48'>
+  <img src='https://github.com/devicons/devicon/raw/master/icons/fedora/fedora-plain.svg' title='Fedora' alt='Fedora' width='48' height='48'>
+  <img src='https://github.com/devicons/devicon/raw/master/icons/windows8/windows8-original.svg' title='Windows' alt='Windows' width='48' height='48'>
+  <img src='https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg' title='GitHub' alt='GitHub' width='48' height='48'>
+  <img src='https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg' title='Git' alt='Git' width='48' height='48'>
+  <img src='https://github.com/devicons/devicon/raw/master/icons/docker/docker-plain.svg' title='Docker' alt='Docker' width='48' height='48'>
+  <img src='https://github.com/devicons/devicon/raw/master/icons/html5/html5-plain-wordmark.svg' title='HTML5' alt='HTML5' width='48' height='48'>
+  <img src='https://github.com/devicons/devicon/raw/master/icons/css3/css3-plain-wordmark.svg' title='CSS3' alt='CSS3' width='48' height='48'>
+  <img src='https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-plain.svg' title='JavaScript' alt='JavaScript' width='48' height='48'>
 </p>
 
 <hr>
