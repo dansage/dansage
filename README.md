@@ -11,13 +11,13 @@ I am software developer with networking and technical support experience in the 
   A high performance tool to collect, summarize, and present statistics about user sessions on each device in a
   fleet of Chromebooks. This tool started as a simple dashboard tool written in PHP using Laravel but quickly
   outgrew the stack (at least on that hardware) and was rewritten from scratch in Go using the [Labstack Echo][2]
-  framework. The project has never been publicly released due deep integration with its original environment.
+  library. The project has never been publicly released due deep integration with its original environment.
 
 
 - **HS Resource**  
   An easy-to-use student attendance tracking application designed to work alongside an existing SIS (student
   information system). Like CB Tools, this project started as a Laravel application but was also rewritten in
-  Go using the [Fiber][3] framework. The project is currently in use at [CUSD 200][1] and will be publicly
+  Go using the [Fiber][3] library. The project is currently in use at [CUSD 200][1] and will be publicly
   released in the near future as initial setup is streamlined and features are finalized.
 
 <hr>
@@ -44,9 +44,7 @@ I am software developer with networking and technical support experience in the 
 
 ### Statistics
 <p align='center'>
-  <a href='https://git.io/streak-stats' rel='nofollow'>
-    <img src='https://github-readme-streak-stats.herokuapp.com?user=dansage&theme=github-dark&hide_border=true' title='GitHub streak' alt='GitHub streak' height='165'>
-  </a>
+  <img src='https://github-readme-streak-stats.herokuapp.com?user=dansage&theme=github-dark&hide_border=true' title='GitHub streak' alt='GitHub streak' height='165'>
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=dansage&theme=dark&layout=compact&hide_border=true' title='top languages' alt='top languages'>
 </p>
 
