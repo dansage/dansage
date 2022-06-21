@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Daniel
 I am software developer with networking and technical support experience in the suburbs of Chicago, IL.
 
-- I' m currently working as a Network Engineer for [CUSD 200][1] in Wheaton, IL
+- I'm currently working as a Network Engineer for [Glen Ellyn School District 41][1] in Glen Ellyn, IL
 - In my free time I am expanding my knowledge of Go and container-based deployment
 
 <hr>
@@ -17,7 +17,7 @@ I am software developer with networking and technical support experience in the 
 - **HS Resource**  
   An easy-to-use student attendance tracking application designed to work alongside an existing SIS (student
   information system). Like CB Tools, this project started as a Laravel application but was also rewritten in
-  Go using the [Fiber][3] library. The project is currently in use at [CUSD 200][1] and will be publicly
+  Go using the [Fiber][3] library. The project is currently in use at [CUSD 200][4] and will be publicly
   released in the near future as initial setup is streamlined and features are finalized.
 
 <hr>
@@ -48,6 +48,7 @@ I am software developer with networking and technical support experience in the 
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=dansage&theme=dark&layout=compact&hide_border=true' title='top languages' alt='top languages'>
 </p>
 
-[1]: https://www.cusd200.org/
+[1]: https://www.d41.org/
 [2]: https://echo.labstack.com/
 [3]: https://gofiber.io/
+[4]: https://www.cusd200.org/
