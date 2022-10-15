@@ -17,8 +17,7 @@ I am software developer with networking and technical support experience in the 
 - **HS Resource**  
   An easy-to-use student attendance tracking application designed to work alongside an existing SIS (student
   information system). Like CB Tools, this project started as a Laravel application but was also rewritten in
-  Go using the [Fiber][3] library. The project is currently in use at [CUSD 200][4] and will be publicly
-  released in the near future as initial setup is streamlined and features are finalized.
+  Go using the [Fiber][3] library.
 
 <hr>
 
