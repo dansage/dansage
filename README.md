@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Daniel
 I am software developer with networking and technical support experience in the suburbs of Chicago, IL.
 
-- I'm currently working as a Network Engineer for [Glen Ellyn School District 41][1] in Glen Ellyn, IL
+- I'm currently working as a Network Engineer for [Indian Prairie School District 204][1] in Aurora, IL
 - In my free time I am expanding my knowledge of Go and coming up with ways to automate network management
 
 <hr>
@@ -25,4 +25,4 @@ prohibitive.
   administrators in absence management and resource room utiliziation monitoring. All user authentication and
   provisioning is handled in the background via an integration with Google Workspace.
 
-[1]: https://www.d41.org/
+[1]: https://www.ipsd.org/
